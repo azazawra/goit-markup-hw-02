@@ -15,6 +15,7 @@ a {text-decoration: none;}
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
+        font-family: "raleway", sans-serif;
 }
 .header-logo .logo-part {color:#2e2f42;}
 .header-logo {margin-right: 76px;}
