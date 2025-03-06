@@ -34,8 +34,61 @@ a {text-decoration: none;}
     }
 
 
+.title {font-weight: 500; 
+        font-size:20px;
+        line-height:1.2;
+        latter-spacing:0.02em;
+        color:#2e2f42
+    }
+.text {
+    font-size:16px
+    line-heigth:1.5;
+    letter-spacing: 0.02em
+    color:#434455;
+      }
 
-.contacts {font-style: normal;}     
+.our-team {background-color:#f4f4fd
+    padding: 40px 0;
+}
+.title-team {
+    font-size: 36px;
+    line-height: 1.11; 
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform:capitalize ;
+    color: #2e2f42
+    margin-bottom: 24px;
+    }
+.team-list {
+    display; flex;
+    justify-content: center;
+    gap: 24px;
+    list-style: none;
+    padding: 0;
+}    
+.team-item {
+    background-color: #ffff;
+    padding: 16px;
+    text-align: center;
+    border-radius: 8px;
+    }
+
+.features-title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42
+}    
+.feature-text{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455
+}
+
+
+    .contacts {font-style: normal;}     
 
 .contacts-link {
         font-size: 16px;
